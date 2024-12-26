@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+} 
+section{
+    display:inline-block;
+    width: 300px;
+    vertical-align: top;
+    margin-left: 10px;
+}
+img{
+    width: 300px;
+}
+header{
+    font-size: 20px;
+    text-align: start;
+    margin: 5px 0px 15px 0px; 
+    padding: 0px; 
+}
+.nav1{
+    margin:10px 500px 10px 10px;
+    font-size: 30px;
+    text-align: start;
+}
+nav{
+    margin-left: 10px;
+    display:inline-block
+}
+h3{
+   font-size: 25px;
+   font-family: "roboto";
+   color: black;
+   text-align: start;
+   margin-top: 10px;
+   font-weight: bold;
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+    text-align-last:start;
+}
+.p1{
+    text-align: start;
+    margin: 10px 0px;
+    color: #dcdedc;
+    text-align: justify;
+}
+button{
+    width: 200px;
+    text-align: center;
+    margin: 10px;
+}
